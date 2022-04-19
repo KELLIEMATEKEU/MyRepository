@@ -8,5 +8,8 @@ function random (min, max){
     function(){
         console.log(bonsoir);
     }
+    function(){
+        console.log(bonsoir bonsoir);
+    }
     
 }
